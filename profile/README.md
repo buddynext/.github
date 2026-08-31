@@ -25,7 +25,7 @@ An alternative to hosted community platforms, built for teams that want to own t
 ## For Developers
 
 - **Docs:** [buddynext.com/docs](https://buddynext.com/docs/)
-- **Interactive API reference:** [buddynext.com/developers/api](https://buddynext.com/developers/api/) — 265 endpoints, 381 operations, 27 domains
+- **Interactive API reference:** [buddynext.com/developers/api](https://buddynext.com/developers/api/) - 265 endpoints, 381 operations, 27 domains
 - **Developer hub:** [buddynext.com/developers](https://buddynext.com/developers/)
 
 ---
