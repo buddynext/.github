@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="1000" viewBox="0 0 1280 1000" role="img" aria-label="The BuddyNext ecosystem: BuddyNext and BuddyNext Pro at the centre, eight built-in Wbcom integrations around it, and free addons for third-party plugins coming next.">
+<rect width="1280" height="1000" rx="24" fill="#ffffff"/>
+<text x="640" y="62" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#1f2328" text-anchor="middle">The BuddyNext ecosystem</text>
+<text x="640" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#59636e" text-anchor="middle">One community at the centre. Every product your members use, connected to it.</text>
+<line x1="640" y1="440" x2="640" y2="185" stroke="#c9d1d9" stroke-width="2"/>
+<line x1="640" y1="440" x2="951" y2="260" stroke="#c9d1d9" stroke-width="2"/>
+<line x1="640" y1="440" x2="1080" y2="440" stroke="#c9d1d9" stroke-width="2"/>
+<line x1="640" y1="440" x2="951" y2="620" stroke="#c9d1d9" stroke-width="2"/>
+<line x1="640" y1="440" x2="640" y2="695" stroke="#c9d1d9" stroke-width="2"/>
+<line x1="640" y1="440" x2="329" y2="620" stroke="#c9d1d9" stroke-width="2"/>
+<line x1="640" y1="440" x2="200" y2="440" stroke="#c9d1d9" stroke-width="2"/>
+<line x1="640" y1="440" x2="329" y2="260" stroke="#c9d1d9" stroke-width="2"/>
+<circle cx="640" cy="440" r="128" fill="#fff1eb" stroke="#F25C26" stroke-width="2" stroke-dasharray="2 6"/>
+<circle cx="640" cy="440" r="98" fill="#F25C26"/>
+<text x="640" y="432" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" fill="#ffffff" text-anchor="middle">BuddyNext</text>
+<text x="640" y="460" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#ffffff" text-anchor="middle">Feed · Profiles · Spaces</text>
+<text x="640" y="480" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#ffffff" text-anchor="middle">Notifications · Moderation</text>
+<rect x="576" y="555" width="128" height="26" rx="13" fill="#ffffff" stroke="#F25C26" stroke-width="1.5"/>
+<text x="640" y="573" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#b23c12" text-anchor="middle">+ BuddyNext Pro</text>
+<rect x="522" y="147" width="236" height="76" rx="14" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="522" y="161" width="5" height="48" rx="2.5" fill="#4f46e5"/>
+<text x="544.0" y="179.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2328" text-anchor="start">Jetonomy</text>
+<text x="544.0" y="203.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#59636e" text-anchor="start">Forums in every space</text>
+<rect x="833" y="222" width="236" height="76" rx="14" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="833" y="236" width="5" height="48" rx="2.5" fill="#4f46e5"/>
+<text x="855.1269837220809" y="253.6877707974304" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2328" text-anchor="start">WPMediaVerse</text>
+<text x="855.1269837220809" y="277.6877707974304" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#59636e" text-anchor="start">Media, albums, documents, DMs</text>
+<rect x="962" y="402" width="236" height="76" rx="14" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="962" y="416" width="5" height="48" rx="2.5" fill="#4f46e5"/>
+<text x="984.0" y="434.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2328" text-anchor="start">WB Gamification</text>
+<text x="984.0" y="458.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#59636e" text-anchor="start">Points, badges, leaderboards</text>
+<rect x="833" y="582" width="236" height="76" rx="14" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="833" y="596" width="5" height="48" rx="2.5" fill="#4f46e5"/>
+<text x="855.1269837220809" y="614.3122292025696" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2328" text-anchor="start">WB Member Blog</text>
+<text x="855.1269837220809" y="638.3122292025696" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#59636e" text-anchor="start">Member articles</text>
+<rect x="522" y="657" width="236" height="76" rx="14" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="522" y="671" width="5" height="48" rx="2.5" fill="#4f46e5"/>
+<text x="544.0" y="689.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2328" text-anchor="start">Learnomy</text>
+<text x="544.0" y="713.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#59636e" text-anchor="start">Courses and certificates</text>
+<rect x="708" y="671" width="36" height="20" rx="10" fill="#fff1eb"/>
+<text x="726.0" y="685.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#b23c12" text-anchor="middle">Pro</text>
+<rect x="211" y="582" width="236" height="76" rx="14" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="211" y="596" width="5" height="48" rx="2.5" fill="#4f46e5"/>
+<text x="232.87301627791913" y="614.3122292025696" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2328" text-anchor="start">WB Listora</text>
+<text x="232.87301627791913" y="638.3122292025696" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#59636e" text-anchor="start">Business listings</text>
+<rect x="397" y="596" width="36" height="20" rx="10" fill="#fff1eb"/>
+<text x="414.87301627791913" y="610.3122292025696" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#b23c12" text-anchor="middle">Pro</text>
+<rect x="82" y="402" width="236" height="76" rx="14" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="82" y="416" width="5" height="48" rx="2.5" fill="#4f46e5"/>
+<text x="104.0" y="434.00000000000006" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2328" text-anchor="start">WP Career Board</text>
+<text x="104.0" y="458.00000000000006" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#59636e" text-anchor="start">Jobs and resumes</text>
+<rect x="268" y="416" width="36" height="20" rx="10" fill="#fff1eb"/>
+<text x="286.0" y="430.00000000000006" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#b23c12" text-anchor="middle">Pro</text>
+<rect x="211" y="222" width="236" height="76" rx="14" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="211" y="236" width="5" height="48" rx="2.5" fill="#4f46e5"/>
+<text x="232.87301627791902" y="253.6877707974304" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f2328" text-anchor="start">Eventonomy</text>
+<text x="232.87301627791902" y="277.6877707974304" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#59636e" text-anchor="start">Events and space calendars</text>
+<rect x="397" y="236" width="36" height="20" rx="10" fill="#fff1eb"/>
+<text x="414.873016277919" y="249.6877707974304" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#b23c12" text-anchor="middle">Pro</text>
+<rect x="40" y="760" width="1200" height="150" rx="18" fill="#f6f8fa" stroke="#0f766e" stroke-width="2" stroke-dasharray="8 6"/>
+<text x="64" y="796" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start">Coming next: free addons for the plugins you already run</text>
+<text x="1216" y="796" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#0f766e" text-anchor="end">+ 23 more planned</text>
+<rect x="64" y="816" width="274" height="74" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<text x="80.0" y="842" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#0f766e" text-anchor="start">Courses</text>
+<text x="80.0" y="864" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#59636e" text-anchor="start">LearnDash · Tutor LMS</text>
+<rect x="356" y="816" width="274" height="74" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<text x="372.5" y="842" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#0f766e" text-anchor="start">Commerce and memberships</text>
+<text x="372.5" y="864" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#59636e" text-anchor="start">WooCommerce · MemberPress</text>
+<text x="372.5" y="882" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#59636e" text-anchor="start">Paid Memberships Pro</text>
+<rect x="649" y="816" width="274" height="74" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<text x="665.0" y="842" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#0f766e" text-anchor="start">Events</text>
+<text x="665.0" y="864" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#59636e" text-anchor="start">The Events Calendar</text>
+<rect x="942" y="816" width="274" height="74" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<text x="957.5" y="842" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#0f766e" text-anchor="start">Marketing and automation</text>
+<text x="957.5" y="864" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#59636e" text-anchor="start">FluentCRM · Uncanny Automator</text>
+<text x="640" y="950" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#59636e" text-anchor="middle">Also in the family:  Reign and BuddyX themes  ·  BuddyNext Importer (from BuddyPress, BuddyBoss, PeepSo, FluentCommunity, Ultimate Member)  ·  Mobile app in development</text>
+</svg>
